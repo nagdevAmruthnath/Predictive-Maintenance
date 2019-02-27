@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nagdevAmruthnath/Predictive-Maintenance/master)
+
 ## Gentle Introduction to Predictive Maintenance
 Predictive maintenance has become a hot topic in the last few years. There are various reasons for it. I am creating a four part series to give a gentle introduction about predictive maintenance using machine learning. The four part series are fault detection, supervised fault classification, unsupervised fault classification and time to failure prediction. This series is aimed to help other researchers in similar fields. If you have any comments or requests create a issue ticket.
 
