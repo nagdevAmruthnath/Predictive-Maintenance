@@ -1,2 +1,2 @@
-install.packages(c("qcc","caret", "foreach", "dplyr", "h2o", "doParallel", "ModelMetrics", "mclust"))
-install.packages('mdatools',  dependencies=TRUE , version='0.9.1')
+install.packages(c("qcc","caret", "foreach", "dplyr", "h2o", "doParallel", "ModelMetrics", "mclust", "e1071","imports","randomForest"), dependencies=TRUE)
+install.packages('https://cran.r-project.org/src/contrib/mdatools_0.9.1.tar.gz')
