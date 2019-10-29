@@ -10,5 +10,9 @@ If you are using this as a part of your research, kindly cite the following pape
 
 [2] Amruthnath, Nagdev, and Tarun Gupta. "Fault class prediction in unsupervised learning using model-based clustering approach." In Information and Computer Technologies (ICICT), 2018 International Conference on, pp. 5-12. IEEE, 2018.
 
+[3] Amruthnath, N., & Gupta, T. (2019, March). Fault Diagnosis using Clustering. What Statistical Test to use for Hypothesis Testing?, Journal reference: Machine Learning and Applications: An International Journal (MLAIJ), Vol 6 Issue 1 (pp. 17-33)
+
+[4] Amruthnath N, Gupta T (2019) Factor Analysis in Fault Diagnostics Using Random Forest. Ind Eng Manage 8: 278.
+
 ## Disclaimer
 This is a tutorial for performing fault detection using machine learning. You this code at your own risk. I do not gurantee that this would work as shown below. If you have any suggestions please branch this project.
